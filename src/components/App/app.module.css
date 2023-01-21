@@ -1,0 +1,11 @@
+.container {
+    max-width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.title,
+.subtitle {
+    color: #272727;
+    text-align: center;
+}
